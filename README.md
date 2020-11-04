@@ -10,7 +10,7 @@
 
 ![Screenshot at 2020-11-04 11-58-15](https://user-images.githubusercontent.com/69615463/98142496-e00d9100-1eed-11eb-9a32-8ebef3a06885.png)
 
-This program can hide your secret message.Its name is hidden_message.It builds on python.A hidden_message has two programs.There are message encrypt or message decrypt programs.Anyone  can not see or spy  your message from social media or any sms sender site.You can hide government secret message or information.At first,you can clone hidden_message github in your linux terminal and enter a message.In the time,a hidden_message program can encrypt your message.You can send encrypt message your friend and he can open his lnux terminal.He can select a message decrypt option and enter a message hash.In this time, a hidden_message program can decrypt your message.He can see your message.A secret communication system.
+This program can hide your secret message.Its name is hidden_message.It builds on python.A hidden_message has two programs.There are message encrypt or message decrypt programs.Anyone  can not see or spy  your message from social media or any sms sender site.You can hide government secret message or information.At first,you can clone hidden_message github in your linux terminal and enter a message.In the time,a hidden_message program can encrypt your message.You can send encrypt message your friend and he can open his linux terminal.He can select a message decrypt option and enter a message hash.In this time, a hidden_message program can decrypt your message.He can see your message.A secret communication system.
 
 
 ### Message  Encryption (conecpt) ###
