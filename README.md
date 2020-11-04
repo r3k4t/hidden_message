@@ -1,5 +1,5 @@
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t//blob/master/LICENSE) 
-![python](https://img.shields.io/badge/python-3.9.0-brightgreen.svg)](https://www.python.org/downloads/release/python-390/)
+[![python](https://img.shields.io/badge/python-3.9.0-brightgreen.svg)](https://www.python.org/downloads/release/python-390/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-yellowgreen.svg)](https://en.wikipedia.org/wiki/Linux/)
 
 <h2>Hidden Message</h2>
@@ -16,19 +16,29 @@ This program can hide your secret message.Its name is hidden_message.It builds o
 ### Message  Encryption (conecpt) ###
 
 >>> import cryptography
+<br>
 >>> from fernet import Fernet
+<br>
 >>> key = Fernet.generate_key()
+<br>
 >>> print (key) 
+<br>
 b'f2oJOLBrYq0EnfxkkrmIwR4gO-guHF9riQ5W61ukp4s='
 
 ### key.key file ###
 
 >>> import cryptography
+<br>
 >>> from fernet import Fernet
+<br>
 >>> key = Fernet.generate_key()
+<br>
 >>> print(key)
+<br>
 >>> file = open('key.key','wb')
+<br>
 >>>>file.write(key) 
+<br>
 >>>>file.close()
 
 #### Tested On ###
