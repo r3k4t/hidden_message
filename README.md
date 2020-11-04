@@ -55,7 +55,7 @@ b'f2oJOLBrYq0EnfxkkrmIwR4gO-guHF9riQ5W61ukp4s='
 We need to install cryptography and fernet on our linux .Open a terminal type and type the following command:
 
 <ul>
-<li>sudo apt install python3-cryptography<li>
+<li>sudo apt install python3-cryptography</li>
 <li>sudo apt install python3-fernet
 </ul>
 
