@@ -1,4 +1,4 @@
-[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t//blob/master/LICENSE) 
+[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/hidden_message/blob/master/LICENSE) 
 [![python](https://img.shields.io/badge/python-3.9.0-brightgreen.svg)](https://www.python.org/downloads/release/python-390/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-yellowgreen.svg)](https://en.wikipedia.org/wiki/Linux/)
 
